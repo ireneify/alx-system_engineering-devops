@@ -1,2 +1,2 @@
 #!/bin/bash
-file. -type f -name "*.js" -delete
+ls -t1 | head -n 10
